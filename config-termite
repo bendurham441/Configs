@@ -1,0 +1,25 @@
+[options]
+font = Monospace 9
+
+[colors]
+cursor = #A20000
+foreground = #A20000
+foreground_bold = #cc40000
+foreground_dim = #ff6666
+background = rgba(0, 0, 0, 0.6)
+
+color0 = #F6F6F6
+color1 = #E8E8E8
+color2 =  #333333
+color3 =  #990100
+color4 =  #B90504
+color5 =  #A20000
+color6 =  #A20000
+color7 =  #A20000
+color9 =  #A20000
+color10 =  #A20000
+color11 =  #A20000
+color12 =  #A20000
+color13 =  #A20000
+color14 =  #A20000
+color15 =  #A20000
