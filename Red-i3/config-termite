@@ -1,5 +1,5 @@
 [options]
-font = Monospace 9
+font = Terminus 10
 
 [colors]
 cursor = #A20000
@@ -11,7 +11,7 @@ background = rgba(0, 0, 0, 0.6)
 color0 = #F6F6F6
 color1 = #E8E8E8
 color2 =  #333333
-color3 =  #990100
+color3 =  #ffffff
 color4 =  #B90504
 color5 =  #A20000
 color6 =  #A20000
